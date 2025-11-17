@@ -1,0 +1,18 @@
+
+.list-group{
+  width: 100px;  
+
+  }
+
+.list-item{
+  font-size: 20px;
+  margin: 5px;
+}
+.buy-button{
+  width: 70px;
+  height: 35px;
+  display: flex;
+  float: right;
+  
+
+}
